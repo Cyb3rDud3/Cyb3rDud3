@@ -1,16 +1,17 @@
-### Hi there 👋
+**Guy Hayou**
 
-<!--
-**Cyb3rDud3/Cyb3rDud3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇮🇱
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ******Web***, ***Cloud*** and ***IoT*** Security Researcher.***
+- Full Stack at pretty much anything (except GO, i hate GO! DAFUQ is nil?! )
+- 2nd in Israel HackTheBox Ranking (anywhere between 30-50th global, changing quite fast tho)
+
+- *~~*WILL STEAL YOUR GF WHILE THE NMAP -P- IS RUNNING*~~ * 
+
+
+[HackTheBox](https://app.hackthebox.com/profile/360735)
+
+[Linkedin](https://www.linkedin.com/in/guy-h087/)
+
+[Work Mail](mailto://cyb3rguy1337@gmail.com)
